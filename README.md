@@ -13,3 +13,5 @@ pip install numpy pygame tensorflow python-chess
 ```bash
 python play_game.py
 ```
+
+<img width="951" height="1000" alt="image" src="https://github.com/user-attachments/assets/ba201c45-8596-4841-ada8-da6e77716720" />
