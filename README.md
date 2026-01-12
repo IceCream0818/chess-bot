@@ -14,5 +14,7 @@ pip install numpy pygame tensorflow python-chess
 python play_game.py
 ```
 
+Default: play as white. Modify the PLAY_AS_WHITE variable to play as black.
+
 ### Game Screenshot
 <img width="951" height="1000" alt="image" src="https://github.com/user-attachments/assets/ba201c45-8596-4841-ada8-da6e77716720" />
